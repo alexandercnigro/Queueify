@@ -1,0 +1,32 @@
+private_key: |
+  -----BEGIN RSA PRIVATE KEY-----
+  MIIEowIBAAKCAQEAsA5S0ekk/kyresNZhXkA76x32Oqsx5JGsZS+QMIue7BPq47O
+  HP7Pj6KhPS4wYyo+psykli17RQvJzLll6gLE037dm+6nkqdl0Xda7e1TR4ZOFty+
+  YP17leHSZUwY3gQ8SL2bF5pNLMCniYg9NVi11Yo8Z1PHf+SEoDH+LU8fN6a0t53Z
+  cb6EcEfJUJ//sD2vbDyPYK8LjvFjASXgMzQr4dcEeRVpaq9GPqfNEzeXzDl7n7rJ
+  Q3AEEJGLg9vGcTzD+x7/oIPiVHYxc8pjORqNANi5zcjXIWnexRnfepX/h7a3lEX3
+  rRuEZy8mS/xJ9z0Fg2de064CeaQcyT4OLOYw6wIDAQABAoIBADD46wTE66tpPFH7
+  wQ0lqaMBwJywOruQ7uU60OlGmpOBacf5A1CBeM8ll+Bi1sbe22qehjHYGPAN5WZz
+  M+wyNPn30kEr06Uxt1ra7oo8d+vvag1l/fcQy63XkSToVAp99x7szxVzsIAAXxoc
+  sZoDQSFTQJYlcdsbf+DnxyJnXfGmkTEF0t4LrNhfXj1K2WzORYAkeL+KLdMYCq8o
+  +GlbcQAUf1GEnGle1mSgwXDQ/gclB4rHDqQSUqcedM3oVECrLdLuwZEnYU9A/nMn
+  b2Zi8EOkHnqPzeOIlovQoRvts9ZJxkv0YRGOlohODo7MypVoyudfxq0L+MWuUJS3
+  GGPqBsECgYEA5OLr5cGa0Zeom7ag8jErBkh4cmxdwYHEqcWK2f+ovmPyG6mE94Vx
+  9dRJYRToJYU3b9a/DjUxh7Ycvp/WQZzZNQ0URJMwmIu2W+y0LI3i5JR/PbhY2T5S
+  WyBtFPyZS5/yXZbIxVY6NAoIaD5XlZYsgPwc+SZejMKQuMKbWpQxT3sCgYEAxOlL
+  saHy2GVbCLAVmGmXeRuJkfyeKxyC5KoSK1NsgB6FysJPEAurzlvVHErkw/n0VKRL
+  jtx2gZz5s84ggcEaIr4eqhbyBXid8GAbCVdZYSl48Fk0OCVWyjd2NS5v+CAVgrfT
+  zFVeSyCeX/RgINfDTllcdJth+IO4VWguaWiIsVECgYEAy2bdO9BRRPEBZV9mp9QJ
+  6At+/jBPISexHS3vtsr7qjYncW20PELagxukGiH6K123ZivwnS+oVHICGWTxgl1g
+  qUR2PnqPNQDzjb1MYEu21msgqDiqvGQly9WFGqFfmVUKjSDySmvWTWidEAZWzxgl
+  dHqXRNJUM8Kz2X0Xkecf6wECgYBXmgKW0Bmds9nAD7ZLzA4bTujxDZXAUDrbR941
+  cDPA+9NB1RgfZ1HTyH8Syy7jEPxl+4Gx2NrP5uof2AAWObZK5pH10adyT6rUGa1t
+  hnK5Cx5GryjQIaxu4iWwmywtEvj+4pFTQldkzOoofiuV8Odun8rGBaqcSN1lAahE
+  NME7QQKBgDX63Gcddrmwt+VCxnoiZvdKTZLeLMpsf5uJOrk8xoW+33cCh99OElQw
+  5dOGBNsxrb/dzcKQi4YpNNd/mFBwBGoU9WjxcJWwQ1a6XRg3k/V3I2nQFC2vTORo
+  nh9rwYCuDjq2d3wYaG5YS/dW+XHpkD/lraiWSpg1Mmn+LkUtu2BE
+  -----END RSA PRIVATE KEY-----
+github_uri: https://github.com/alexn113/Queueify.git
+branch: master
+docker_repo: node
+docker_repo_version: 11
